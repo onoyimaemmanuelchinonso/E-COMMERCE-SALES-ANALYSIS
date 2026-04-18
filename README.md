@@ -128,6 +128,7 @@ This analysis has several limitations that should be considered when interpretin
 ### References
 
 1. E-commerce sales data - source of all data analyzed in this project
+2. Microsoft Power BI Documentaion - DAX functions and data modeling
 
 
 
