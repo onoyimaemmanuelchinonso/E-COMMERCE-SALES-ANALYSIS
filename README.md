@@ -8,6 +8,7 @@
 - [Data Structure](data-structure)
 - [Data Cleaning](data-cleaning)
 - [Eploratory Data Analysis](exploratory-data-analysis)
+- [Data Analysis](data-analysis)
 - [Results/Findings](results/findings)
 - [Recommendations](recommendations)
 - [Limitations](limitations)
@@ -63,6 +64,14 @@ EDA involved exploring the sales data to answer key questions, such as:
 7. Which customers are the top spenders, and what percentage of revenue do they represent
 8. What are the top 5 units by quantity sold
 9. Which countries generate the highest sales volume
+
+### Data Analysis
+
+<img width="664" height="380" alt="E-commerce sales" src="https://github.com/user-attachments/assets/bbf8ae6a-2b82-484d-9966-111cc5c021bd" />
+
+<img width="554" height="314" alt="dasyt" src="https://github.com/user-attachments/assets/66118328-0420-46b6-bcb8-c0af985cb9f6" />
+
+
 
 ### Results/Findings
 
